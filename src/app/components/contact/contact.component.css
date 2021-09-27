@@ -1,0 +1,25 @@
+.colory{
+    background-color: #59b9a6 !important;
+    font-weight: bold;
+    font-size: 14px;
+    width: 100px !important;
+    border: 1px solid white;
+    cursor: pointer !important;
+}
+.btn.disabled{
+    opacity: 0.95;
+}
+.btn-primary.disabled{
+    border-color: #e7e7e7;
+}
+a{
+    text-decoration: none !important;
+    color: rgb(4, 14, 32) !important;
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #59b9ab !important;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem #3c4947;
+  }

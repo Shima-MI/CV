@@ -1,0 +1,15 @@
+.experiences{
+    width: 400px;
+    height: auto;
+    border: 4px solid #192b3d;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 0 0 0 0.15rem #8ddece;
+}
+h2{
+    font-size: 20px;
+}
+h5{
+    font-weight: bold;
+}
